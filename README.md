@@ -1,3 +1,6 @@
 # AreaCalculator
-A calculator program that calculates the area of polygons. Brewed in Java on 3/4/18.
+
 Only able to calculate the areas of equilateral triangles or a triangle given apothem and perimeter. 
+=======
+Although not regularly updated, the base program is timeless and works well. 10/05/19. 
+
