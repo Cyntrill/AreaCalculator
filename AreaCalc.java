@@ -11,8 +11,8 @@ public class AreaCalc
 
         System.out.println("Booted up AreaCalc. What do you want to find?");
         System.out.println("(Enter choice #)");
-        System.out.println("1. Area of an Equilateral Triangle");
-        System.out.println("2. Area of a Polygon using Apothem & Perimeter");
+        System.out.println("1. The Area of an Equilateral Triangle");
+        System.out.println("2. The Area of a Polygon using Apothem & Perimeter");
 
         char choice = reader.next().charAt(0);
 
